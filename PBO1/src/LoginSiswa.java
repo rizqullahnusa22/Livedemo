@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class LoginSiswa {
-    private static String[] students = { "2023 - 119", "dafanusa" };
+    private static String[] students = { "202310370311119", "dafanusa" };
     private static String adminNIM = "admin";
     private static String adminPassword = "adminslot99";
     private static int studentIndex = 0;
